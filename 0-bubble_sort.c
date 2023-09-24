@@ -2,8 +2,8 @@
 
 /**
  * bubble_sort - Uses bubble sort to sort an array
- * array: array to be sorted
- * size: size of array
+ * @array: array to be sorted
+ * @size: size of array
  * Return: sorted array
  **/
 
